@@ -5,7 +5,8 @@ public class Rombo {
     public static void main(String[] args)
     {
         System.out.println("Hola, este es el cambio que acabo de hacer a ver si va\n");
-    	
+    	System.out.println("Segundo cambio en el fichero");
+    	System.out.println("Tercer cambio");
     	int max=30;
         int i=0,j=0,k=0;
  
