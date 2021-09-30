@@ -4,7 +4,9 @@ public class Rombo {
 	 
     public static void main(String[] args)
     {
-        int max=30;
+        System.out.println("Hola, este es el cambio que acabo de hacer a ver si va\n");
+    	
+    	int max=30;
         int i=0,j=0,k=0;
  
       
